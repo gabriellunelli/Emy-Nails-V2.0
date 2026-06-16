@@ -560,7 +560,7 @@ function Footer() {
         <div>
           <p className="text-lg font-semibold">Emy Nails</p>
           <p className="mt-1 text-sm text-white/60">
-            Studio de unhas em gel, manutenção e nail art.
+            Studio de Nail Design.
           </p>
           <p className="mt-5 max-w-xl text-sm italic leading-6 text-fuchsia-100/80">
             &quot;Tudo o que fizerem, façam de todo o coração, como para o Senhor.&quot;
