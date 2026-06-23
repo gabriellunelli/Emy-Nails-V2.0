@@ -38,7 +38,7 @@ export default function BookingPage() {
           </h1>
           <p className="mt-5 text-base leading-8 text-white/70">
             Escolha o serviço, confira o valor e selecione a data que melhor encaixa na sua rotina.
-            Depois a equipe confirma os detalhes com você.
+            Depois confirmo os detalhes com você.
           </p>
           <div className="mt-8 grid gap-3 sm:grid-cols-3 lg:grid-cols-1">
             {["Sem cadastro", "Valor visível", "Confirmo seu horário"].map((item) => (
