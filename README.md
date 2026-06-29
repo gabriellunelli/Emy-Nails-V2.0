@@ -4,8 +4,9 @@ Site premium para nail designer com formulário de pedido de horário.
 
 ## Screenshots
 
-<p>
-  <img src:"/screenshots/1.png">
+<p align="center">
+  <img src="/screenshots/1.png">
+  <img src="/screenshots/2.png">
 </p>
 
 ## Funcionalidades
