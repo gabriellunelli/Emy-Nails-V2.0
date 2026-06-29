@@ -2,6 +2,12 @@
 
 Site premium para nail designer com formulário de pedido de horário.
 
+## Screenshots
+
+<p>
+  <img src:"/screenshots/1.png">
+</p>
+
 ## Funcionalidades
 
 - Landing page premium com fundo escuro, glassmorphism e animações suaves
